@@ -5,7 +5,7 @@ This project aims to enhance safety measures by predicting the hazard potential 
 ## Features
 
 - **Web Application**: Users can input the parameters of a NEO into the web application and receive a prediction regarding its hazard potential.
-  [!WebApp](Predictor_Image.jpg)
+  ![WebApp](Predictor_Image.jpg)
   
 - **Predictive Model**: A backend system runs a predictive model using the provided parameters to determine whether a NEO is hazardous or not.
 
